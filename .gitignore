@@ -34,3 +34,5 @@
 # Project Files
 .vs
 **/.vs
+out
+**/out
